@@ -1,1 +1,1 @@
-package testrail-cli
+package testrailcli
